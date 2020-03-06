@@ -51,6 +51,7 @@ jQuery(document).ready(function($) {
 });
 
 /* Google map */
+/*
 $(function () {
   "use strict";
 	var map = new GMaps({
@@ -92,3 +93,4 @@ $(function () {
         icon: "images/marker.png"
       });
 });
+*/
